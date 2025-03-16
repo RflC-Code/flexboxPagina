@@ -1,8 +1,2 @@
-@charset "UFT-8";
 
-@media screen and (max-width: 400px) {
-    header {
-        justify-content: space-between;
-    }
-}
 
